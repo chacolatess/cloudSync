@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 #include "p2p_client.h"
 
